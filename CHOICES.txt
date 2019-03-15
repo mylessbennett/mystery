@@ -9,3 +9,4 @@ Sixth Choice: Listen in on what he's saying
 Seventh Choice: Approach Danny
 Eighth Choice: Approach Billy
 Ninth Choice: Talk to Billy directly
+Tenth Choice: As if! Billy's acting weird. He's clearly hiding something. Accuse Billy
