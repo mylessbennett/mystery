@@ -5,3 +5,4 @@ Second Choice: Get to work helping. Take a look around the room. Look for people
 Third Choice: Approach Helga and the Doctor
 Fourth Choice: Talk to them directly
 Fifth Choice: Approach Billy
+Sixth Choice: Listen in on what he's saying
