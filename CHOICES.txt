@@ -7,3 +7,4 @@ Fourth Choice: Talk to them directly
 Fifth Choice: Approach Billy
 Sixth Choice: Listen in on what he's saying
 Seventh Choice: Approach Danny
+Eigth Choice: You've seen enough. Danny's clearly guilty! Taking out the trash? Cleaning up the mess? Come on. Accuse Danny.
