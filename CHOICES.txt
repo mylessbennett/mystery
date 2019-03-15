@@ -10,3 +10,6 @@ Seventh Choice: Approach Danny
 Eighth Choice: Approach Billy
 Ninth Choice: Talk to Billy directly
 Tenth Choice: As if! Billy's acting weird. He's clearly hiding something. Accuse Billy
+Eleventh Choice: Approach Helga and the Doctor
+Twelfth Choice: This is it! Doctor Database just said that Helga is doing home renovations. Maybe that includes plumbing, so she would have access to the murder weapon. It must've been her! Accuse her.
+Final Choice: Accuse Billy, Danny and Helga
