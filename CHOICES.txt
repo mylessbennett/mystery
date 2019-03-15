@@ -7,3 +7,4 @@ Fourth Choice: Talk to them directly
 Fifth Choice: Approach Billy
 Sixth Choice: Listen in on what he's saying
 Seventh Choice: Approach Danny
+Eighth Choice: Approach Billy
